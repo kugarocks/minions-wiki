@@ -1,10 +1,12 @@
 # Minions Wiki
 
-I hope all the Minions' names can be found here.
+[https://www.minions.wiki](https://www.minions.wiki)
 
-![Wiki-Cover](/static/images/wiki-cover.jpg)
+![Wiki Cover](/static/images/wiki-cover.jpg)
 
 # Feel Free to Contribute
+
+I hope all the Minions' names can be found here.
 
 | Status | Name | 名称 | 名稱 |
 | --- | --- | --- | --- |
