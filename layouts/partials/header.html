@@ -1,0 +1,34 @@
+<header class="site-header">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}">{{ .Site.Title }}</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a target="_blank" href="{{ .Site.Params.github }}">GitHub</a></li>
+        <!-- Language Switcher -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+            aria-expanded="false">Language <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ .RelPermalink | replaceRE "^/[^/]+/" "/en/" }}">English</a></li>
+            <li><a href="{{ .RelPermalink | replaceRE "^/[^/]+/" "/zh-cn/" }}">简体中文-大陆</a></li>
+            <li><a href="{{ .RelPermalink | replaceRE "^/[^/]+/" "/zh-hk/" }}">繁体中文-香港</a></li>
+            <!-- Add more languages as needed -->
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+</header>
