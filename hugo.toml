@@ -2,6 +2,9 @@ baseURL = 'https://www.minions.wiki'
 languageCode = 'en'
 theme = 'hugo-cards'
 
+# github pages
+publishDir = "docs"
+
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
