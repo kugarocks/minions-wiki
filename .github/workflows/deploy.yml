@@ -16,10 +16,13 @@ jobs:
         submodules: true  # Fetch all submodules
         fetch-depth: 0    # Fetch all history for proper submodule fetching
 
+    # Setup Hugo Extended version
+    # Ensure that the Hugo Extended version is used
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.134.2'
+        extended: true
 
     # Build the Hugo site, output to the gh-pages directory
     - name: Build Hugo site
