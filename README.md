@@ -31,6 +31,9 @@ http://localhost:1313/
 
 I hope all the Minions' names can be found here.
 
+* More minions.
+* More languages.
+
 | Status | Name | 名称 | 名稱 |
 | --- | --- | --- | --- |
 | ✅ | Stuart | 斯图尔特 | 斯圖爾特 |
