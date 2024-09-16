@@ -2,14 +2,17 @@
 
 ![Wiki Cover](/static/images/wiki-cover.jpg)
 
-# Pages
+# GitHub Pages
 
-* `Minion`: [https://www.minion.wiki](https://www.minion.wiki)
-* `Minions`: [https://www.minions.wiki](https://www.minions.wiki)
-* `gh-pages`: [https://kugarocks.github.io/minions-wiki/en/](https://kugarocks.github.io/minions-wiki/en/)
-* `cf-pages`: [https://minions-wiki.pages.dev/en/](https://minions-wiki.pages.dev/en/)
+* [https://www.minion.wiki](https://www.minion.wiki)
+* [https://www.minions.wiki](https://www.minions.wiki)
+* [https://kugarocks.github.io/minions-wiki/](https://kugarocks.github.io/minions-wiki/)
 
-# Setup
+# Cloudflare Pages
+
+* [https://minions-wiki.pages.dev/](https://minions-wiki.pages.dev/)
+
+# Local Setup
 
 ```bash
 git submodule init
