@@ -1,8 +1,13 @@
 # Minions Wiki
 
-[https://www.minions.wiki](https://www.minions.wiki)
-
 ![Wiki Cover](/static/images/wiki-cover.jpg)
+
+# Pages
+
+* `Minion`: [https://www.minion.wiki](https://www.minion.wiki)
+* `Minions`: [https://www.minions.wiki](https://www.minions.wiki)
+* `gh-pages`: [https://kugarocks.github.io/minions-wiki/en/](https://kugarocks.github.io/minions-wiki/en/)
+* `cf-pages`: [https://minions-wiki.pages.dev/en/](https://minions-wiki.pages.dev/en/)
 
 # Setup
 
