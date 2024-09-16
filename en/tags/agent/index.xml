@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agent on Minions Wiki</title>
+    <link>https://www.minion.wiki/en/tags/agent/</link>
+    <description>Recent content in Agent on Minions Wiki</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.minion.wiki/en/tags/agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dave</title>
+      <link>https://www.minion.wiki/en/posts/dave/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.minion.wiki/en/posts/dave/</guid>
+      <description>&lt;p&gt;Dave&amp;rsquo;s first appearance was with a rocket launcher, when Gru was planning to steal the moon.&#xA;Among the Minions, Dave&amp;rsquo;s appearance is a bit hard to distinguish,&#xA;but he&amp;rsquo;s always there when there&amp;rsquo;s work to be done.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;dave-rocket-bomb&#34; src=&#34;https://www.minion.wiki/en/posts/dave/images/dave-rocket-bomb.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;dave-rocket-done&#34; src=&#34;https://www.minion.wiki/en/posts/dave/images/dave-rocket-done.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
