@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Minions Wiki</title>
-    <link>https://www.minions.wiki/en/tags/music/</link>
+    <link>https://kugarocks.github.io/minions-wiki/en/tags/music/</link>
     <description>Recent content in Music on Minions Wiki</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.minions.wiki/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kugarocks.github.io/minions-wiki/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stuart</title>
-      <link>https://www.minions.wiki/en/posts/stuart/</link>
+      <link>https://kugarocks.github.io/minions-wiki/en/posts/stuart/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.minions.wiki/en/posts/stuart/</guid>
-      <description>&lt;p&gt;Stuart has a center-parted hairstyle, half-squinted eyes.&#xA;He loves music and enjoys flirting.&#xA;He&amp;rsquo;s likely the first Minion to appear in the opening scene of the first movie.&#xA;He also has two close buddies, Kevin and Bob.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;with-fire-hydrant&#34; src=&#34;https://www.minions.wiki/en/posts/stuart/images/stuart-fire-hydrant.jpg&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://kugarocks.github.io/minions-wiki/en/posts/stuart/</guid>
+      <description>&lt;p&gt;Stuart has a center-parted hairstyle, half-squinted eyes.&#xA;He loves music and enjoys flirting.&#xA;He&amp;rsquo;s likely the first Minion to appear in the opening scene of the first movie.&#xA;He also has two close buddies, Kevin and Bob.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;with-fire-hydrant&#34; src=&#34;https://kugarocks.github.io/minions-wiki/minions-wiki/en/posts/stuart/images/stuart-fire-hydrant.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
