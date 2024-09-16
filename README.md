@@ -4,6 +4,19 @@
 
 ![Wiki Cover](/static/images/wiki-cover.jpg)
 
+# Setup
+
+```bash
+git submodule init
+git submodule update
+```
+
+```bash
+hugo server
+```
+
+http://localhost:1313/
+
 # Feel Free to Contribute
 
 I hope all the Minions' names can be found here.
