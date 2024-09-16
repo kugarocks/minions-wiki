@@ -1,5 +1,5 @@
 # Hugo's generated public directory, contains the static site files
-public/
+# public/
 
 # Hugo's temporary resources directory
 resources/
