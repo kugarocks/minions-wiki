@@ -1,0 +1,31 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Listen for changes on the main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.134.2'
+
+    # Build the Hugo site, output to the gh-pages directory
+    - name: Build Hugo site
+      run: hugo --baseURL="https://www.minions.wiki/" -d ./gh-pages
+
+    # Deploy the contents of the gh-pages directory
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./gh-pages
+
