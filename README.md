@@ -2,14 +2,16 @@
 
 ![Wiki Cover](/static/images/wiki-cover.jpg)
 
-# GitHub Pages
+# Pages
 
-* [https://www.minion.wiki](https://www.minion.wiki)
+### Github
+
 * [https://www.minions.wiki](https://www.minions.wiki)
 * [https://kugarocks.github.io/minions-wiki/](https://kugarocks.github.io/minions-wiki/)
 
-# Cloudflare Pages
+### Cloudflare
 
+* [https://www.minion.wiki](https://www.minion.wiki)
 * [https://minions-wiki.pages.dev/](https://minions-wiki.pages.dev/)
 
 # Local Setup
