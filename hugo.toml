@@ -61,9 +61,9 @@ defaultContentLanguageInSubdir = true
     type = "profile"
     title = "Profile"
 
-  [params.analytics]
-    type="UA"
-    trackingID = ""
+  #[params.analytics]
+  #  type="UA"
+  #  trackingID = ""
 
   [params.copyright]
      name = "Illumination Entertainment"
