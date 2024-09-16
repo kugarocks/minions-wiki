@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 迷你兵團百科</title>
-    <link>https://kugarocks.github.io/minions-wiki/zh-hk/pages/</link>
+    <link>https://minions-wiki.pages.dev/zh-hk/pages/</link>
     <description>Recent content in Pages on 迷你兵團百科</description>
     <generator>Hugo</generator>
     <language>zh-Hant</language>
-    <atom:link href="https://kugarocks.github.io/minions-wiki/zh-hk/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://minions-wiki.pages.dev/zh-hk/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://kugarocks.github.io/minions-wiki/zh-hk/pages/about/</link>
+      <link>https://minions-wiki.pages.dev/zh-hk/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kugarocks.github.io/minions-wiki/zh-hk/pages/about/</guid>
+      <guid>https://minions-wiki.pages.dev/zh-hk/pages/about/</guid>
       <description></description>
     </item>
   </channel>

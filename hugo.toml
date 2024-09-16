@@ -1,4 +1,4 @@
-baseURL = 'https://kugarocks.github.io/minions-wiki/'
+baseURL = 'https://minions-wiki.pages.dev/'
 languageCode = 'en'
 theme = 'hugo-cards'
 

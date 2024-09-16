@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 小黄人百科</title>
-    <link>https://kugarocks.github.io/minions-wiki/zh-cn/categories/</link>
+    <link>https://minions-wiki.pages.dev/zh-cn/categories/</link>
     <description>Recent content in Categories on 小黄人百科</description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
-    <atom:link href="https://kugarocks.github.io/minions-wiki/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://minions-wiki.pages.dev/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
