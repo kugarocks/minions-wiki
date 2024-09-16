@@ -25,7 +25,7 @@ jobs:
         extended: true
 
     # Build the Hugo site, output to the gh-pages directory
-    - name: Build Hugo site
+    - name: Build Hugo site to gh-pages
       run: hugo --baseURL="https://www.minions.wiki/" -d ./gh-pages
 
     # Add custom domain
@@ -39,4 +39,17 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./gh-pages
         publish_branch: gh-pages
+
+    # Build the Hugo site, output to the cf-pages directory
+    - name: Build Hugo site to cf-pages
+      run: hugo --baseURL="https://www.minion.wiki/" -d ./cf-pages
+
+    # Deploy the contents of the cf-pages directory
+    - name: Deploy to Cloudflare Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./cf-pages
+        publish_branch: cf-pages
+
 
