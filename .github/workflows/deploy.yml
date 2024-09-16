@@ -28,10 +28,15 @@ jobs:
     - name: Build Hugo site
       run: hugo --baseURL="https://www.minions.wiki/" -d ./gh-pages
 
+    # Add custom domain
+    - name: Add CNAME file
+      run: echo "www.minions.wiki" > ./gh-pages/CNAME
+
     # Deploy the contents of the gh-pages directory
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./gh-pages
+        publish_branch: gh-pages
 
